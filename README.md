@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 #### 😄Outstanding Move GitHub! Now let me be more creative!
 
 #### 😄 Check back soon!
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![C++ Loce](https://img.shields.io/badge/Loves-C%2B%2B-red)]()
