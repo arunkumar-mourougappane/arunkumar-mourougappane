@@ -24,7 +24,7 @@ Am Arun (My friends call me A.K.), a hobbyist Embedded Developer,Astrophotograph
 
 💬 Ask me about ...
 - Hardware interfacing questions.
-- Best place to stargaze in Illinois or in Noth-East of US.
+- Best place to stargaze in Illinois or in North-East of US.
 - Solving concurrency issues in Embedded Systems.
 - How to shell script?
 - My photography collections and pics.
