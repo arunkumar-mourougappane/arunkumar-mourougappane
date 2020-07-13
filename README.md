@@ -1,6 +1,6 @@
 ### Hi there 👋 [![HitCount](http://hits.dwyl.com/arunkumar-mourougappane/arunkumar-mourougappane/arunkumar-mourougappane.svg)](http://hits.dwyl.com/arunkumar-mourougappane/arunkumar-mourougappane/arunkumar-mourougappane)
 
-<img align="right" width="150" height="100" src="profile.jpg">
+<img align="right" width="150" height="150" src="https://github.com/arunkumar-mourougappane/arunkumar-mourougappane/raw/master/profile.jpg">
 Am Arun (My friends call me A.K.), a hobbyist Embedded Developer,Astrophotographer, Naturephotographer, Household Electronics Maker, Gamer and an eager enthusiast. I convert coffee to code and if you have anything interesting am all ears. To be short, am an Engineer, who specializes in analyzing, breaking down, reverse engineering Embedded Hardware for the sake of curiosity.
 
 :office: Where do I work?
