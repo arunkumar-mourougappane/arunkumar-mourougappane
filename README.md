@@ -35,6 +35,7 @@ Am Arun (My friends call me A.K.), a hobbyist Embedded Developer,Astrophotograph
 -  [Linkedin Account](https://linkedin.com/in/amouroug "Arunkumar Mourougappane Linkedin")
 -  [Facebook Profile](https://www.facebook.com/arunkumar.mourougappane "My Facebook") - I do not take request from strangers.
 -  [Instagram](https://www.instagram.com/arunkumar.m1990/ "No Hot Pics, just photography")  - I post regularly all of best pics out of hundreds I take everyday.
+-  [Personal Blog](http://anengineersrant.com/) - My rantings, a little more specific.
 
 😄 Pronouns: ...
 - I don't know what you were expecting but am just a "He".
@@ -45,12 +46,11 @@ Am Arun (My friends call me A.K.), a hobbyist Embedded Developer,Astrophotograph
 - You can talk anything Science anytime.
 - I did invent "Retroactive Differential Flash for Telematics Devices".
 - I don't give up on learning anything new.
-- I am really nice. (Am like the Iron Giant :|, May look big and strong but, have an innocent heart)
-- I am secretly cool :D.
 
 #### 😄Outstanding Move GitHub! Now let me be more creative!
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![C++ Love](https://img.shields.io/badge/Loves-C%2B%2B-red)]() 
+[![Rust Love](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
