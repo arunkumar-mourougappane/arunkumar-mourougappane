@@ -8,7 +8,8 @@ Am Arun (My friends call me A.K.), a hobbyist Embedded Developer,Astrophotograph
 
 🔭 I’m currently working on ...
 - Building a Remote Controlled Rover which can transmit telemetry data, all while being controlled a mile or more apart.
-- A new protocol to compress and send data over Nordic RF2.4.
+- Adressing my WiFi issues with my own custom built wifi scanner.
+- Making a Wifi Controlled Rover.
 - Peering at the Universe, looking for the unknown.
 
 🌱 I’m currently learning ...
@@ -18,7 +19,7 @@ Am Arun (My friends call me A.K.), a hobbyist Embedded Developer,Astrophotograph
 - C++ !! Its bigger than you think and its ever growing.
 
 🤔 I’m looking for help with ...
-- Developing the RF2.4 protocol which is as reliable as TCP/IP.
+- Developing esp32 firmware projects. Its all the rage now!
 - Astronomy of course, I am noob there.
 - Hardware Testing for different Projects or PCB Realization.
 
