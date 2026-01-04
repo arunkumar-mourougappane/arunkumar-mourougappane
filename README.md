@@ -16,9 +16,10 @@ I'm Arun (my friends call me A.K.), a hobbyist Embedded Developer, Astrophotogra
 
 🏆 Honors
 
-- Caterpillar Inc. CEO Award for Excellence
-- STAR OF LEARNER'S GROUP
-- TCS GEMS
+- Caterpillar Inc. CEO Award for Excellence - 2024
+- GPS Rollover Hero - 2019
+- STAR OF LEARNER'S GROUP - 2013
+- TCS GEMS - 2013
 
 🔭 I’m currently working on ...
 
