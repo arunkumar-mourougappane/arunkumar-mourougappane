@@ -79,13 +79,5 @@ I'm Arun (my friends call me A.K.), a hobbyist Embedded Developer, Astrophotogra
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumar-mourougappane&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=arunkumar-mourougappane&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=arunkumar-mourougappane&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=arunkumar-mourougappane&icon=10&color=0)](https://visitcount.itsvg.in)
