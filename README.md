@@ -78,6 +78,3 @@ I'm Arun (my friends call me A.K.), a hobbyist Embedded Developer, Astrophotogra
 ![](https://nirzak-streak-stats.vercel.app/?user=arunkumar-mourougappane&theme=shadow_green&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumar-mourougappane&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=arunkumar-mourougappane&icon=10&color=0)](https://visitcount.itsvg.in)
